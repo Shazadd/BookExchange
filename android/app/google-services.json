@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101019106464",
+    "project_id": "boea-d0c87",
+    "storage_bucket": "boea-d0c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101019106464:android:c2f0fe02697b91234d1dc5",
+        "android_client_info": {
+          "package_name": "com.example.bea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101019106464-vpb5ha7r3aud2rqr7o7rp8rheieqalu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLlmCCzMph6vF7uYp9G9lfczSoDUbzC-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101019106464-vpb5ha7r3aud2rqr7o7rp8rheieqalu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
